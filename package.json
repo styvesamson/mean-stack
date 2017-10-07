@@ -1,0 +1,23 @@
+{
+  "name": "mean-stack",
+  "version": "1.0.0",
+  "description": "Mean stack Angular 2 App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/styvesamson/mean-stack.git"
+  },
+  "author": "Yves Toupe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/styvesamson/mean-stack/issues"
+  },
+  "homepage": "https://github.com/styvesamson/mean-stack#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "mongoose": "^4.12.0"
+  }
+}
